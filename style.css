@@ -1,0 +1,41 @@
+*{
+    margin: 0%;
+}
+body {
+    background-color: rgb(135, 138, 138);
+  }
+h1 {
+    text-align: center;
+    color: bisque;
+    background-color: blue;
+    
+}
+
+ul{
+    list-style-type: none;
+    margin-top:;
+    padding: 0;
+    overflow: hidden;
+    background-color: #f72a2aa1;
+
+    
+}
+li{
+    display: inline;
+    float: left;
+
+    
+}
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover{
+    color: blue;
+}
+h3, p{
+    background-color: rgb(151, 143, 133);
+}
